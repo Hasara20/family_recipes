@@ -1,4 +1,4 @@
-# Hasara's Family secret recipes
+# Hasara's Clan secret recipes
 
 Set of recipes as given by  my grandma
 
